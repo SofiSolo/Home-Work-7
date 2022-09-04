@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Домашняя работа № 7");
+        System.out.println("Домашняя работа 7");
         // ЗАДАНИЕ 1
 
         int clientOs= 1;
